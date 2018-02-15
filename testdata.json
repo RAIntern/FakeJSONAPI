@@ -1,6 +1,6 @@
 {
-  "next_water_time":1518711763.509,
-  "next_water_time_length":1518711802.235,
-  "next_light_time":1518711849.306,
-  "next_light_time_length":1518711933.336
+  "water_time_start":1518711763.509,
+  "water_time_end":1518711802.235,
+  "light_time_start":1518711849.306,
+  "light_time_end":1518711933.336
 }
